@@ -65,5 +65,5 @@ This part is still being planned, it's best to check Mirin Template stuff [on it
 
 ## License
 
-This project is under the [MIT license.](./LICENSE.md)
+This project is under the [MIT license](./LICENSE.md).
 
