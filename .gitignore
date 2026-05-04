@@ -1,0 +1,10 @@
+.vscode/*
+.haxelib/*
+
+lua/haxe/*
+lua/_GeneratedFiles.json
+lua/EnumValue.lua
+lua/IntIterator.lua
+lua/NotITG.lua
+lua/StringBuf.lua
+lua/Type.lua

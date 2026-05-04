@@ -1,0 +1,6 @@
+-cp haxeSrc
+-main HaxeResult
+
+-lib hxnotitgframework
+-lib reflaxe.lua
+-D lua-output=lua
