@@ -23,7 +23,7 @@ Assuming you already have [Haxe](https://haxe.org/download) installed...
 
 In the folder where you will create your new song in NotITG, for example `Songs/Slushi/Haxe test`, first of all we need [Mirin Template](https://github.com/XeroOl/mirin-template), this is the base of this project, [download it from here](https://github.com/XeroOl/mirin-template/archive/refs/heads/master.zip) (or from the GitHub "Code" button) and copy the contents of what you downloaded into your song folder (or follow the [official guide](https://xerool.github.io/mirin-template/Getting-Started.html))
 
-Now you need this template, same thing, [download it from here](https://github.com/Slushi-Github/HxNotITG/archive/refs/heads/main.zip) (or again, from the GitHub "Code" button) and copy the contents (you can skip copying the `docs`, `.gitignore` and `.gitattributes` folders/files if you want) into your song folder, it will usually ask you to replace files, do it!
+Now you need this template, same thing, [download it from here](https://github.com/Slushi-Github/HxNotITG/archive/refs/heads/main.zip) (or again, from the GitHub "Code" button) and copy the contents (you can skip copying the `docs`, `.gitignore` and `.gitattributes` `TODO.md`, and folders/files like that if you want) into your song folder, it will usually ask you to replace files, do it!
 
 Now you need the library used with this template, you have two ways to get it:
 
