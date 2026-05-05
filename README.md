@@ -13,7 +13,7 @@ See the [CHANGELOG](./CHANGELOG.md) for changes in the past.
 > [!CAUTION]
 > This library is in alpha state, it is extremely experimental and can very easily generate invalid code or behave incorrectly, modcharts in NotITG are something I don't know much about!.
 
-Keep something in mind, this project is made for a very specific purpose, if you are not already familiar with [Haxe](https://haxe.org) or it is not your favorite or main language, honestly, use [Mirin Template](https://github.com/XeroOl/mirin-template) directly with [Lua](https://www.lua.org), which is an easier language to understand and learn.
+Please keep something in mind, this project is made for a very specific purpose, if you are not already familiar with [Haxe](https://haxe.org) or it is not your favorite or main language, honestly, use [Mirin Template](https://github.com/XeroOl/mirin-template) directly with [Lua](https://www.lua.org), which is an easier language to understand and learn. Don't criticize the project or anyone who tries to use it just because they prefer something that seems more “difficult” at first; some of us are more used to Haxe than to Lua...
 
 Due to the apparent structure of a song in NotITG, I cannot fully cover the use of Haxe for everything, there will be things that you will probably still have to do in Lua or XML.
 
@@ -38,6 +38,7 @@ Or from GitHub:
 ```bash
 haxelib git hxnotitgframework https://github.com/Slushi-Github/HxNotITGFramework.git
 ```
+
 
 Finally, you need Reflaxe and Reflaxe/Lua:
 
