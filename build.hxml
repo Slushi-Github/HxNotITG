@@ -4,3 +4,4 @@
 -lib hxnotitgframework
 -lib reflaxe.lua
 -D lua-output=lua
+-D message.reporting=pretty
